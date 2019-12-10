@@ -1,0 +1,16 @@
+baseURL = "https://m0bil3rulz.github.io/"
+languageCode = "en-us"
+title = "M0bil3Rulz"
+theme = "m10c"
+pygmentsCodefences = true
+pygmentsStyle = "pygments"
+enableEmoji = true
+[params]
+  AuthorName = "AK"
+  GitHubUser = "M0bil3Rulz"
+  Description = "Github Posts"
+  avatar = "image.jpg"
+[[params.social]]
+  name = "github"
+  url = "https://github.com/M0bil3Rulz/"
+  

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M0bil3Rulz</title>
+    <link>https://m0bil3rulz.github.io/</link>
+    <description>Recent content on M0bil3Rulz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Dec 2019 20:37:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://m0bil3rulz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Python Links</title>
+      <link>https://m0bil3rulz.github.io/links/python-links/</link>
+      <pubDate>Mon, 09 Dec 2019 20:37:00 -0700</pubDate>
+      
+      <guid>https://m0bil3rulz.github.io/links/python-links/</guid>
+      <description> https://realpython.com/  </description>
+    </item>
+    
+  </channel>
+</rss>
